@@ -11,7 +11,7 @@ import { Methods } from './models/types/router.types';
 
 dotenv.config();
 const MODE = process.env.NODE_ENV;
-const PORT = +(process.env.PORT as string);
+const PORT = +(process.env.PORT as string) || 3000;
 const numCPUs = cpus().length;
 
 const app = new App();
