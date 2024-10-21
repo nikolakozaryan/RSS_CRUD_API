@@ -18,6 +18,7 @@ git checkout dev
 npm install
 ```
 5. Rename example.env to .env and specify the port
+
 ## How to run the app
 1. To start the app in development mode (run the app with nodemon)
 ```
