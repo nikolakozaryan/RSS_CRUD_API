@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nikolakozaryan/CRUD_API.git"
+    "url": "git+https://github.com/nikolakozaryan/RSS_CRUD_API.git"
   },
   "keywords": [
     "node",
@@ -21,9 +21,9 @@
   "author": "Nikolay Kozyrev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nikolakozaryan/CRUD_API/issues"
+    "url": "https://github.com/nikolakozaryan/RSS_CRUD_API/issues"
   },
-  "homepage": "https://github.com/nikolakozaryan/CRUD_API#readme",
+  "homepage": "https://github.com/nikolakozaryan/RSS_CRUD_API#readme",
   "devDependencies": {
     "@types/jest": "^29.2.5",
     "@types/supertest": "^2.0.12",
